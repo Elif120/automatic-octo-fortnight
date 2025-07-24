@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642871995853",
+    "project_id": "apply-cd853",
+    "storage_bucket": "apply-cd853.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642871995853:android:d5977a09d3ffde756ce884",
+        "android_client_info": {
+          "package_name": "com.example.oneway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYL2KwvI3k_78JPI_96vhEdOlQyagnvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
